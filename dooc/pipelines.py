@@ -2,7 +2,7 @@ import typing
 import torch
 from moltx import tokenizers
 from dooc import models
-from utils import pairwise_rank
+from dooc.utils import pairwise_rank
 
 
 class MutSmi:
